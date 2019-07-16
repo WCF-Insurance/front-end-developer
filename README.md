@@ -20,7 +20,7 @@ other feature requests for that client should be adjusted.
 'Reports')
 
 ## Tech Stack
-The following are the tools our team favors.  They are preferred, but not required, for this project.
+The following are the tools our team favors.
 
 * Angular
 
