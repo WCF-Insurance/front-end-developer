@@ -35,7 +35,7 @@ One of the major goals in this project is to see how you fill in ambiguities in 
 way. There is no such thing as a perfect project here, just interpretations of the instructions
 above, so be creative in your approach.
 
-We want to be respectful of your time and set realistic expectations for submission. To help guide you, we 
+We want to be respectful of your time (2-3 hours should be sufficient) and set realistic expectations for submission. To help guide you, we 
 have included the list below which details common practices in the best projects we receive. It is rare for 
 a project to match every item in this list, but the candidates we hire typically showcase several of 
 these features in their work.
