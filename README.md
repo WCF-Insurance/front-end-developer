@@ -23,6 +23,7 @@ other feature requests for that client should be adjusted.
 The following are the tools our team favors.
 
 * Angular
+* CSS
 
 ## Guidelines
 
